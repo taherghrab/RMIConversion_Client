@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RMIConversion_Server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RMIConversion_Server/out/artifacts/RMIConversion_Server_jar2/RMIConversion_Server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
